@@ -1,2 +1,8 @@
 Maven Intro:
 Apache Maven is a software project management and comprehension tool.
+
+Maven Lifecycle
+===============
+default
+site
+clean
